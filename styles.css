@@ -308,6 +308,7 @@ header {
 
 .restaurant-info {
     text-align: center;
+    overflow-x: hidden;
 }
 
 .restaurant-description {
@@ -668,5 +669,4 @@ footer {
 
 .animate-top, .animate-bottom, .animate-left, .animate-right {
     overflow-x: hidden;
-    overflow-y: hidden;
 }
