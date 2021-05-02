@@ -665,3 +665,8 @@ footer {
         transform: translateY(-1rem);
     }
 }
+
+.animate-top, .animate-bottom, .animate-left, .animate-right {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
