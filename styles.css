@@ -668,7 +668,7 @@ footer {
     }
 }
 
-.animate-top, .animate-bottom, .animate-left, .animate-right {
+/* .animate-top, .animate-bottom, .animate-left, .animate-right {
     overflow-x: hidden;
     overflow-y: hidden;
-}
+} */
